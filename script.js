@@ -40,12 +40,40 @@ Amplitude.init({
       cover_art_url: "https://assets.codepen.io/6566924/warp.png",
     },
     {
-      name: "Track 02: FINAL AD ASTRA",
+      name: "Track 02: The Summer of George",
+      artist: "Atom Loves You",
+      album: "Ad Astra per Aspera, 2024",
+      url: "./Final/The-Summer-of-George.mp3",
+      cover_art_url: "https://assets.codepen.io/6566924/warp.png",
+    },
+    {
+      name: "Track 03: Otherkin",
+      artist: "Atom Loves You",
+      album: "Ad Astra per Aspera, 2024",
+      url: "./Final/Otherkin.mp3",
+      cover_art_url: "https://assets.codepen.io/6566924/warp.png",
+    },
+    {
+      name: "Track 04: Title",
+      artist: "Atom Loves You",
+      album: "Ad Astra per Aspera, 2024",
+      url: "./",
+      cover_art_url: "https://assets.codepen.io/6566924/warp.png",
+    },
+    {
+      name: "Track 05: ℏ = h/2π",
+      artist: "Atom Loves You",
+      album: "Ad Astra per Aspera, 2024",
+      url: "./Final/ℏ = h_2π.mp3",
+      cover_art_url: "https://assets.codepen.io/6566924/warp.png",
+    },
+    {
+      name: "Track 06: Ad Astra",
       artist: "Atom Loves You",
       album: "Ad Astra per Aspera, 2024",
       url: "./Final/Ad Astra.mp3",
       cover_art_url: "https://assets.codepen.io/6566924/warp.png",
-    },
+    }
 
     // Tweeters, Woofers, Heavy Metal
     /*{
