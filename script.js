@@ -36,14 +36,14 @@ Amplitude.init({
       name: "Track 01: Tweeters, Woofers, Heavy Metal",
       artist: "Atom Loves You",
       album: "Ad Astra per Aspera, 2024",
-      url: "./audio/Final/Ad Astra.mp3",
+      url: "./Final/Ad Astra.mp3",
       cover_art_url: "https://assets.codepen.io/6566924/warp.png",
     },
     {
       name: "Track 02: FINAL AD ASTRA",
       artist: "Atom Loves You",
       album: "Ad Astra per Aspera, 2024",
-      url: "./audio/Final/Ad Astra.mp3",
+      url: "./Final/Ad Astra.mp3",
       cover_art_url: "https://assets.codepen.io/6566924/warp.png",
     },
 
