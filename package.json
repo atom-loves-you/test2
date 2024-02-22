@@ -22,7 +22,7 @@
     "webpack-dev-server": "^4.15.1"
   },
   "homepage": "https://atom-loves-you.com/",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "name": "atom-loves-you-tailwind-3-0-audio-player",
   "scripts": {
     "build": "gulp -f ./build/gulpfile.js --cwd ./ --continue",
